@@ -53,5 +53,15 @@ The app is organized with a **clear separation of screens and widgets** for main
 
 ---
 
+## 📸 Screenshots
 
+![Screenshot_20250918_154542](https://github.com/user-attachments/assets/e43e477c-347f-4403-8b10-c86344d44563)
+
+![Screenshot_20250918_154548](https://github.com/user-attachments/assets/5654e3db-9f49-42c9-bf92-d1a0d0b91f8e)
+
+![Screenshot_20250918_154607](https://github.com/user-attachments/assets/57974c23-d792-4ff1-a559-433492db4d44)
+
+![Screenshot_20250918_154553](https://github.com/user-attachments/assets/2508f9fa-6c0d-4c05-8275-6848320d99af)
+
+![Screenshot_20250918_154557](https://github.com/user-attachments/assets/f51110dd-57b2-407b-bdaa-e49804c96b7a)
 
